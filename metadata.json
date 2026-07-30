@@ -1,0 +1,6 @@
+{
+  "name": "포켓몬 16강 이상형 월드컵",
+  "description": "최애 포켓몬을 가리는 16강 토너먼트 월드컵! 상세 능력치 비교, VS 배틀, 화려한 승리 축하 효과 및 AI 해설 제공",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
